@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 13.725 s <<< FAILURE! - in TestSuite
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 11.891 s  <<< FAILURE!
+java.lang.AssertionError: expected [dshjd] but found [Tomato]
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 11.998 s  <<< FAILURE!
+java.lang.AssertionError: expected [dshjd] but found [Strawberry]
+
