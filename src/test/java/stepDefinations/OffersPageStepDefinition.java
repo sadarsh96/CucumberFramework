@@ -27,4 +27,9 @@ public class OffersPageStepDefinition {
 	public void validate_that_product_name_in_offers_page_matched_with_landing_page() {
 		Assert.assertEquals(testContextSetup.landingPageProductName,"dshjd");//offersPageName);
 	}
+	
+	public void addNumbers() {
+		int  a=10,b=20;
+		int c = a+b;
+	}
 }
