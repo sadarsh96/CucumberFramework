@@ -28,6 +28,7 @@ public class OffersPageStepDefinition {
 		Assert.assertEquals(testContextSetup.landingPageProductName,"dshjd");//offersPageName);
 	}
 	
+	
 	public void addNumbers() {
 		int  a=10,b=20;
 		int c = a+b;
@@ -38,6 +39,10 @@ public class OffersPageStepDefinition {
 		int c= a-b;
 	}
 	public void multiplication() {
+		int a=10, b=5;
+		int c= a*b;
+	}
+	public void multiplicationInDevelopBranchTest2() {
 		int a=10, b=5;
 		int c= a*b;
 	}
