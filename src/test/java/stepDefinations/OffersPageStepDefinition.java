@@ -32,4 +32,9 @@ public class OffersPageStepDefinition {
 		int  a=10,b=20;
 		int c = a+b;
 	}
+	
+	public void substraction() {
+		int a=10, b=5;
+		int c= a-b;
+	}
 }
