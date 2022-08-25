@@ -41,4 +41,8 @@ public class OffersPageStepDefinition {
 		int a=10, b=5;
 		int c= a*b;
 	}
+	public void multiplicationInDevelopBranchTest() {
+		int a=10, b=5;
+		int c= a*b;
+	}
 }
