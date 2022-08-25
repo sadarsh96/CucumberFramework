@@ -41,8 +41,5 @@ public class OffersPageStepDefinition {
 		int a=10, b=5;
 		int c= a*b;
 	}
-	public void division() {
-		int a=10, b=5;
-		int c= a/b;
-	}
+	
 }
