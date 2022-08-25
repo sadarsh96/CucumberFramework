@@ -44,5 +44,6 @@ public class OffersPageStepDefinition {
 	public void division() {
 		int a=10, b=5;
 		int c= a/b;
+		String message= "division done";
 	}
 }
